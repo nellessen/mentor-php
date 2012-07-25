@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+#report-form .btn {margin-bottom: 5px;}
+
+.span3 .detail-view th {
+  width:auto;
+}
